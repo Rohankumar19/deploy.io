@@ -122,4 +122,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Note**: Replace placeholders (like `your-repo`, `architecture_diagram.png`, etc.) with actual values pertinent to your project.
+
