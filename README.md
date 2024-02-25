@@ -51,7 +51,7 @@ This project is a clone of Vercel, a cloud platform for static sites and serverl
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-repo/vercel-clone.git
+    git clone https://github.com/DUhacks3.0/vercel-clone.git
     ```
 
 2. Navigate to the project directory:
